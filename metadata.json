@@ -1,0 +1,5 @@
+{
+  "name": "Super Sorteador Pro",
+  "description": "Una aplicación web horizontal para sorteos profesionales que soporta carga de archivos Excel con pesos (probabilidades) ajustables y una experiencia visual de alta calidad.",
+  "requestFramePermissions": []
+}
